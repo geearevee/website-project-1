@@ -127,6 +127,7 @@ button:hover{
     /* top: 100px; */
     bottom: 93px;
     left: 100px;
+    font-size: 24px;
     
 }
 #startgame{
@@ -146,6 +147,7 @@ button:hover{
 #startgame button img{
     height: 80px;
     width:auto;
-
-
+}
+ul li{
+    list-style: none;
 }
